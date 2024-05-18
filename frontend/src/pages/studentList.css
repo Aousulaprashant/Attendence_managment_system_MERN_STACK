@@ -1,0 +1,10 @@
+.student-table {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
+  .student-table th,
+  .student-table td {
+    border: 1px solid black;
+    padding: 5px;
+  }
